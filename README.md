@@ -24,11 +24,11 @@ Mods Chosen:
 5) Create 4 new explosion sound effects and randomize which one plays on impact (3)
     - used Math.random to get an integer between 0 and 3 and used ternary operators to choose audio based on number
     - inspired by this video: https://youtu.be/MR6GuO0r7KY?si=p7mHQ03b4rsFN293
-    - audio references: 
-    https://freesound.org/people/stumpbutt/sounds/381764/
-    https://freesound.org/people/cabled_mess/sounds/350976/
-    https://freesound.org/people/Jerimee/sounds/527525/
-    https://freesound.org/people/kutejnikov/sounds/522209/
+    - audio references:
+      1. https://freesound.org/people/stumpbutt/sounds/381764/
+      2. https://freesound.org/people/cabled_mess/sounds/350976/
+      3. https://freesound.org/people/Jerimee/sounds/527525/
+      4. https://freesound.org/people/kutejnikov/sounds/522209/
 6) Display the time remaining (in seconds) on the screen (3)
     - created totalTime and currentTime (currentTime is made so we do not overwrite the totalTime the game is alloted)
     - created timeConfig and timerVisual to show a box that states the time left for the player
@@ -42,9 +42,9 @@ Mods Chosen:
     - imported a bitmap font to change text on screen
     - layout is centered on screen and font sizes have been scaled
     - bunny border make on Piskel
-    - bitmap reference: 
-    https://docs.phaser.io/api-documentation/class/gameobjects-bitmaptext
-    https://www.fontspace.com/public-pixel-font-f72305
+    - bitmap reference:
+       1. https://docs.phaser.io/api-documentation/class/gameobjects-bitmaptext
+       2. https://www.fontspace.com/public-pixel-font-f72305
     - bunny sprite inspired by: https://www.teepublic.com/user/bonbonpup
 9) Create a new enemy Spaceship type (w/ new artwork) that's smaller, moves faster, and is worth more points (5)
     - created unique sprite (carrot-ship) and added argument "type" to Spaceship class
