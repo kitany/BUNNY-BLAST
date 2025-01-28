@@ -1,8 +1,8 @@
 # BUNNY-BLAST
 
-Name: Kayla Nguyen
-Modification Title: Rocket Patrol: BUNNY BLAST (or BUNNY BLAST for short)
-Project time: 11 hours
+Name: Kayla Nguyen\
+Modification Title: Rocket Patrol: BUNNY BLAST (or BUNNY BLAST for short)\
+Project time: 11 hours\
 NOTE: I am aware Phaser documentation does not need to be cited, but it is good reference I'd like to keep :)
 
 Mods Chosen: 
