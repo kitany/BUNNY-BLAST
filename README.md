@@ -3,6 +3,8 @@
 Name: Kayla Nguyen
 Modification Title: Rocket Patrol: BUNNY BLAST (or BUNNY BLAST for short)
 Project time: 11 hours
+NOTE: I am aware Phaser documentation does not need to be cited, but it is good reference I'd like to keep :)
+
 Mods Chosen: 
 1) Implement the 'FIRE' UI text from the original game (1)
     - implemented FIRE text to UI on top right corner, added text to scene in Rocket.js
@@ -50,4 +52,3 @@ Mods Chosen:
     - created unique sprite (carrot-ship) and added argument "type" to Spaceship class
     - if the ship type is "new" or not "basic," the game will change the ship's speed to a faster value
     - point value is implemented in Play.js, with carrot-ship having a point value of 50!
-NOTE: I am aware Phaser documentation does not need to be cited, but it is good reference I'd like to keep :)
