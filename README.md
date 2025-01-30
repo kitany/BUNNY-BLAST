@@ -1,5 +1,6 @@
 # BUNNY-BLAST
 
+ASSIGNMENT FOR CMPM 120
 Name: Kayla Nguyen\
 Modification Title: *Rocket Patrol: BUNNY BLAST* (or *BUNNY BLAST* for short)\
 Project time: 11 hours\
